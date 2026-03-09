@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.equora.app",
+    "sha256_cert_fingerprints": [
+      "71:9D:52:40:8E:55:37:B2:6D:24:E2:AF:DF:93:E0:D3:E9:04:ED:86:15:6E:2E:D4:18:9C:8E:32:58:6C:E9:70"
+    ]
+  }
+}]
